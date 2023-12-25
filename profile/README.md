@@ -1,6 +1,6 @@
 # Luyx
 
-![test](https://avatars.githubusercontent.com/u/96552233?s=400&u=a4ec57f4c117171e1e4abb292b5713c18bee9319)
+![test](https://github.com/Luyo-Development/.github/blob/main/profile/unnamed.png)
 
 A freelance team of developers ready to build your company's needs.
 
